@@ -5,7 +5,7 @@
 Term: Fall 2021
 
 + Team 7
-+ Projec title: Comparing DM, DM-sen, LM and LPS
++ Project title: Comparing DM, DM-sen, LM and LPS
 + Team members
 	+ Ayati-Ghaffari, Arya aa4663@columbia.edu
 	+ Chen, Xueying xc2578@columbia.edu
